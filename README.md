@@ -65,12 +65,14 @@ The project uses **BERT-base-uncased** from Hugging Face, a pre-trained transfor
 ### Learning Curve
 The training loss decreased consistently across epochs, demonstrating that the model was learning effectively:
 
-![Learning Curve](images/learning_curve.png)
+![image](https://github.com/user-attachments/assets/e5163755-7f19-467b-9432-925d4dceaf64)
+
 
 ### Confusion Matrix
 The confusion matrix reveals the model’s performance for each sentiment class:
 
-![Confusion Matrix](images/confusion_matrix.png)
+![image](https://github.com/user-attachments/assets/99dea4f2-0505-47ce-aad5-15701528ed52)
+
 
 - **Neutral (LABEL_2)**: Most accurately classified.
 - **Bearish (LABEL_0)**: Frequently misclassified as Neutral or Bullish.
@@ -79,7 +81,8 @@ The confusion matrix reveals the model’s performance for each sentiment class:
 ### Class Distribution
 The imbalanced distribution of sentiment classes in the training dataset likely impacted the model’s performance:
 
-![Class Distribution](images/class_distribution.png)
+![image](https://github.com/user-attachments/assets/8fc54093-31fb-4ef5-aedc-732ccc149bbe)
+
 
 ---
 
@@ -102,3 +105,46 @@ The imbalanced distribution of sentiment classes in the training dataset likely 
    - Experiment with other pre-trained models, such as RoBERTa or FinBERT, specifically designed for financial tasks.
 3. **Domain-Specific Features**:
    - Incorporate
+   financial indicators, such as stock price movements, to enhance predictions.
+4. **Explainability**:
+   - Integrate tools like SHAP or LIME to interpret model predictions and build user trust.
+
+---
+
+## Files in This Repository
+
+1. **`README.md`**: Documentation and project report.
+2. **`main.ipynb`**: Jupyter Notebook containing code for data preprocessing, model fine-tuning, and evaluation.
+3. **`requirements.txt`**: List of dependencies required for reproducing the project.
+4. **`prediction_results.csv`**: File containing the predicted and true labels for the validation set.
+5. **`prediction_results.txt`**: A human-readable file summarizing the predictions.
+
+---
+
+## Future Directions
+
+### Enhancements
+1. **Interactive Demo**:
+   - Develop a live prediction interface using tools like Streamlit or Gradio to demonstrate the model’s capabilities.
+   - Allow users to input custom tweets and view predicted sentiment in real time.
+   
+2. **Expanded Dataset**:
+   - Collect additional finance-related tweets using the Twitter API for improved generalization.
+   - Address class imbalance by augmenting minority classes through oversampling or synthetic data generation.
+   
+3. **Explainability and Transparency**:
+   - Provide detailed explanations of model predictions using tools like SHAP or LIME to enhance trust and usability.
+   - Include feature importance visualizations to identify which words or phrases most influence sentiment classification.
+
+---
+
+## Resource Links
+
+1. **Dataset**: [Hugging Face Twitter Financial News Dataset](https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment)
+2. **Model**: [BERT-base-uncased on Hugging Face](https://huggingface.co/bert-base-uncased)
+3. **Research Papers**:
+   - Vaswani, A., et al. (2017). *Attention is All You Need*. [Link](https://arxiv.org/abs/1706.03762)
+   - Araci, D. (2019). *FinBERT: A Pretrained Language Model for Financial Communications*. [Link](https://arxiv.org/abs/1908.10063)
+
+---
+
