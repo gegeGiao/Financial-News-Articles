@@ -1,0 +1,975 @@
+Text: Two key regulators are holding off on easing Wall Street debt limits, leaving billions of dollars locked up that co… https://t.co/YvDDlEcmh2
+True Label: 2
+Predicted Label: 2
+
+Text: Xinjiang Xinxin Mining Industry : ANNOUNCEMENT - RESIGNATION OF GENERAL MANAGER  #Stock #MarketScreener… https://t.co/t6FBv4Yu7G
+True Label: 2
+Predicted Label: 2
+
+Text: $NVS - Novartis: Swiss Pharmaceutical Titan On Sale. https://t.co/FI5wU6MyeC #investing #markets #stocks
+True Label: 2
+Predicted Label: 2
+
+Text: Stocks making the biggest moves midday: TD Ameritrade, Tiffany, Uber, Hasbro & more https://t.co/gJM9nLZlzL
+True Label: 2
+Predicted Label: 2
+
+Text: Twitter's Q4 Earnings Preview
+True Label: 2
+Predicted Label: 2
+
+Text: Troy Income & Growth Trust : Publication of Suppl.Prospcts  #Stock #MarketScreener https://t.co/6rYHq9nvYb https://t.co/0jjvKVppPI
+True Label: 2
+Predicted Label: 2
+
+Text: A New Look at Wendy's
+True Label: 2
+Predicted Label: 2
+
+Text: Did Business Growth Power Maya Gold and Silver's (TSE:MYA) Share Price Gain of 296%?
+True Label: 2
+Predicted Label: 2
+
+Text: China’s Drug Patent Grab Makes Coronavirus Scary for Pharma
+True Label: 2
+Predicted Label: 2
+
+Text: Maruti Suzuki Says India Not Ready For EVs As Peers Take The Plunge
+True Label: 2
+Predicted Label: 2
+
+Text: DOJ moves to scrap decades-old movie distribution rules
+True Label: 2
+Predicted Label: 2
+
+Text: STOCKS SURGE INTO THE CLOSE:
+- Dow up 7.59% 
+- Nasdaq up 7.35% 
+- S&P up 6.95% https://t.co/jPsgrFNxpg
+True Label: 1
+Predicted Label: 1
+
+Text: Season Pacific : ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2019 #SeasonPacific #Stock… https://t.co/c97pSCIfIB
+True Label: 2
+Predicted Label: 2
+
+Text: President of Russia : Meeting with First Vice-President of Azerbaijan Mehriban Aliyeva #PresidentofRussia #economy… https://t.co/zeu0FK5NhH
+True Label: 2
+Predicted Label: 2
+
+Text: Jerome Powell comes close to acknowledging that the Federal Reserve may not have the firepower to fight the next re… https://t.co/UD2rqlD6SD
+True Label: 0
+Predicted Label: 2
+
+Text: United Airlines' next CEO a 'details guy' who will have labor contracts and the 737 Max on his plate https://t.co/FQ54xaqF6L
+True Label: 2
+Predicted Label: 2
+
+Text: Goldman Sachs sees China lowering its economic growth target for 2020 to 'around 6%' https://t.co/L4v0LbULsq
+True Label: 0
+Predicted Label: 2
+
+Text: Tech stocks led all three major U.S. stock averages marginally into the black following upbeat statements on the U.… https://t.co/S2BkUCDmcx
+True Label: 1
+Predicted Label: 1
+
+Text: Oil Price Fundamental Daily Forecast – Lack of Details Over Trade Deal Progress Capping Prices
+True Label: 2
+Predicted Label: 1
+
+Text: What are Kimberly Esterkin's top priorities as an #IRO? 
+
+✅ "Staying ahead of the best practices in my industry" 
+✅… https://t.co/JDyJevXsED
+True Label: 2
+Predicted Label: 2
+
+Text: Dow Jones News: Apple Production Problems; Boeing Upgraded
+True Label: 2
+Predicted Label: 2
+
+Text: added $MRK Feb 90/Dec 90.50 Call Diagonals
+True Label: 1
+Predicted Label: 1
+
+Text: "More Eco-Friendly" Meets "Horrors Of Capitalism": $34 Toilet Paper 'With A Conscience' https://t.co/S3jmLnZt7Z
+True Label: 2
+Predicted Label: 2
+
+Text: $EB - Eventbrite Needs To Find Acquisitions. Get more info on Seeking Alpha: https://t.co/O3GeF4Q2TE #trading #stockmarket #economy
+True Label: 2
+Predicted Label: 2
+
+Text: Jason Garrett’s job security in picture form https://t.co/CBpCNx3Frg
+True Label: 2
+Predicted Label: 2
+
+Text: Porsche is going all in on electric vehicles, but the legendary 911 will be the last of the brand’s lineup to make… https://t.co/yLO2JlqVp6
+True Label: 2
+Predicted Label: 2
+
+Text: Coty Acquires $600M Majority Stake In Kylie Jenner's Cosmetics Company
+True Label: 2
+Predicted Label: 2
+
+Text: Joe Biden really called a young woman a 'lying, dog-faced pony soldier' https://t.co/Op3dEnYE7J
+True Label: 2
+Predicted Label: 2
+
+Text: Trade war. Possible recession. Presidential election.
+
+Here are the 3 stocks you need heading into 2020. 
+
+https://t.co/fdcXiqwKpw
+True Label: 2
+Predicted Label: 2
+
+Text: Tezos rallies into the top ten cryptocurrencies, ousting Stellar
+True Label: 1
+Predicted Label: 2
+
+Text: Best Stocks for 2020: Energy Transfer Is Poised for an Epic Rally
+True Label: 2
+Predicted Label: 2
+
+Text: GE upgraded from Sell by longtime bear
+True Label: 1
+Predicted Label: 1
+
+Text: M&A Monday: Charles Schwab to buy TD Ameritrade https://t.co/MF0tOYzLjI https://t.co/bwWCGuIzCY
+True Label: 2
+Predicted Label: 2
+
+Text: 30-year Treasury yield plumbs key 2% support level https://t.co/g1AUTKwOCb
+True Label: 0
+Predicted Label: 1
+
+Text: At Least One Republican Still Knows Right From Wrong
+True Label: 2
+Predicted Label: 2
+
+Text: Tapestry, Inc. Reports Fiscal 2020 Second Quarter Results
+True Label: 2
+Predicted Label: 2
+
+Text: Thyssenkrupp, Kone discuss multi-billion euro break-up fee - sources
+True Label: 2
+Predicted Label: 2
+
+Text: Passing The Torch … Or Should I Say The Flashlight App?
+True Label: 2
+Predicted Label: 2
+
+Text: Oil kicks off week with gains on fresh hopes for U.S.-China trade talks #economy #MarketScreener… https://t.co/8QB6hKz9lI
+True Label: 1
+Predicted Label: 1
+
+Text: BNTC
+True Label: 2
+Predicted Label: 2
+
+Text: The Bull Case for Shopify Stock Is More Relevant Than Ever
+True Label: 1
+Predicted Label: 2
+
+Text: Mnuchin says trade deal with China to boost global economy
+True Label: 1
+Predicted Label: 2
+
+Text: $RLGT - Radiant Logistics EPS misses by $0.04, misses on revenue https://t.co/6PdH5dGuBC
+True Label: 0
+Predicted Label: 1
+
+Text: Roku stock falls after disclosure of shareholder resales
+True Label: 0
+Predicted Label: 1
+
+Text: Merkel Demands an End to CDU’s ‘Unforgivable’ Far-Right Deal
+True Label: 2
+Predicted Label: 2
+
+Text: Restaurant Brands International : Burger King says it never promised Impossible Whoppers w...… https://t.co/lglPK2jij4
+True Label: 2
+Predicted Label: 2
+
+Text: Edited Transcript of TOY.TO earnings conference call or presentation 6-Nov-19 2:30pm GMT
+True Label: 2
+Predicted Label: 2
+
+Text: Renault : New Espace illustrated press kit #Renault #Stock #MarketScreener https://t.co/JCISUSGwbo https://t.co/M9sEsCHSvO
+True Label: 2
+Predicted Label: 2
+
+Text: Why Ebix, Inc. (NASDAQ:EBIX) Should Be In Your Dividend Portfolio
+True Label: 1
+Predicted Label: 2
+
+Text: Medicines : Novartis to buy U.S. biotech The Medicines Co. for $9.7 billion #Medicines #Stock #MarketScreener… https://t.co/TA05wVBHcd
+True Label: 2
+Predicted Label: 2
+
+Text: Is Now The Time To Look At Buying Houlihan Lokey, Inc. (NYSE:HLI)?
+True Label: 2
+Predicted Label: 2
+
+Text: Sun Pharmaceuticals Industries reports Q3 results
+True Label: 2
+Predicted Label: 2
+
+Text: Fed minutes to tell a story
+True Label: 2
+Predicted Label: 2
+
+Text: The market bounced back after President Trump said the US and China are “potentially very close” on a trade deal. T… https://t.co/VC5V93JFh4
+True Label: 1
+Predicted Label: 1
+
+Text: “Anal cancer may be one of the most rapidly accelerating causes of cancer incidence and mortality in the U.S." https://t.co/d0VXzuZaIu
+True Label: 2
+Predicted Label: 2
+
+Text: $MTH - Meritage Homes 1Q20 orders rise 23% Y/Y; shares up ~20% https://t.co/wByVa9hi30
+True Label: 1
+Predicted Label: 1
+
+Text: Otello : Commodity Classic Announces Main Stage Line-Up for 2020 #Otello #Stock #MarketScreener… https://t.co/kpMbYgOGOx
+True Label: 2
+Predicted Label: 2
+
+Text: Asian markets gain amid fresh hopes for U.S.-China trade deal https://t.co/NPIyhoJPU1
+True Label: 1
+Predicted Label: 1
+
+Text: This sustainable fund already doesn't invest in fossil fuels. Now it wants all portfolio companies to align with th... https://t.co/vcxPmt4JUL
+True Label: 2
+Predicted Label: 2
+
+Text: $JCOM - j2 Global EPS beats by $0.01, beats on revenue https://t.co/i7AKcjCVj2
+True Label: 1
+Predicted Label: 1
+
+Text: Watchdog faults FBI in Trump campaign probe, but sees no bias https://t.co/ntqbKnWfWJ
+True Label: 2
+Predicted Label: 2
+
+Text: $KTOS: Kratos Defense and Security awarded a $39 million sole-source contract for Geolocation Global Support Servic… https://t.co/uPPTCX837l
+True Label: 1
+Predicted Label: 2
+
+Text: Highlight: “I think it does give him more leverage in the trade war,” @rickjnewman says about the jobs report being… https://t.co/N46Fd7Y4Eq
+True Label: 2
+Predicted Label: 2
+
+Text: AM Best Affirms Credit Ratings of Legal & General Group Plc and Legal and General Assurance Society Limited… https://t.co/dopr5WqWYx
+True Label: 2
+Predicted Label: 2
+
+Text: India is reviewing trade and goods agreements with its Southeast Asian neighbors after opting out of a China-backed… https://t.co/JUB0UJL4SP
+True Label: 2
+Predicted Label: 2
+
+Text: Monday's big rally is premature: financial advisor #economy #MarketScreener https://t.co/Ld6fdzqgQd https://t.co/nqWvTA19gR
+True Label: 2
+Predicted Label: 2
+
+Text: Opal Energy : Versus Systems to Present at the LD Micro Main Event (XII) on Tuesday, Decem... #Versus #Stock… https://t.co/4VAFhHVN4S
+True Label: 2
+Predicted Label: 1
+
+Text: Just received a full briefing on the tragic shooting at NAS Pensacola in Florida, and spoke to @GovRonDeSantis. My… https://t.co/Em3f4rgehW
+True Label: 2
+Predicted Label: 2
+
+Text: Volkswagen talks up next-gen EV wagon
+True Label: 2
+Predicted Label: 2
+
+Text: The Big Dirty Secret Behind Wind Power
+True Label: 2
+Predicted Label: 2
+
+Text: Russia Says Lives Lost in Joint Operation With Turkey in Syria
+True Label: 2
+Predicted Label: 2
+
+Text: Google Stadia review: The game streaming service works — but it’s missing key features
+True Label: 2
+Predicted Label: 2
+
+Text: Taco Bell, KFC parent Yum Brands' stock drops after profit misses but revenue beat
+True Label: 0
+Predicted Label: 1
+
+Text: What You Must Know About Hingham Institution for Savings's (NASDAQ:HIFS) Beta Value
+True Label: 2
+Predicted Label: 2
+
+Text: World’s Biggest Reservoir May Stop Power Output Amid Drought
+True Label: 2
+Predicted Label: 1
+
+Text: Skechers U.S.A., Inc. Annual Results: Here's What Analysts Are Forecasting For Next Year
+True Label: 2
+Predicted Label: 2
+
+Text: RMR Group EPS beats by $0.01, beats on revenue
+True Label: 1
+Predicted Label: 1
+
+Text: From Trump to Bolsonaro, Climate Skeptics Stir Green Activism
+True Label: 2
+Predicted Label: 2
+
+Text: Stock market live updates: Dow futures up 800 points, set to add to 1,600-point Monday rally https://t.co/kOL2DaUNTc
+True Label: 1
+Predicted Label: 2
+
+Text: AT&T says it will continue investing in Mexico: Mexican president
+True Label: 1
+Predicted Label: 2
+
+Text: Applied Materials, Inc. Reported Earnings Last Week And Analysts Are Already Upgrading Their Estimates
+True Label: 1
+Predicted Label: 1
+
+Text: Stocks making the biggest moves premarket: TD Ameritrade, Charles Schwab, Tesla & more https://t.co/gvK766Jmmm
+True Label: 2
+Predicted Label: 2
+
+Text: Only 35 Shopping Days Until Christmas
+True Label: 2
+Predicted Label: 2
+
+Text: Fiat Chrysler fourth-quarter lifted by North America business to meet expectations
+True Label: 1
+Predicted Label: 1
+
+Text: UK starts first stage of 330 billion pound loan guarantee scheme https://t.co/hZiqmzoZBr https://t.co/0z6Kisr3Oe
+True Label: 2
+Predicted Label: 2
+
+Text: CBS and Viacom to close merger on Dec. 4 https://t.co/V6yhhhQkOu https://t.co/mG8Ri2LR71
+True Label: 2
+Predicted Label: 2
+
+Text: Stock Market Update: Futures slip lower following trade tweet from CNBC reporter
+True Label: 0
+Predicted Label: 1
+
+Text: 3 Mutual Fund Misfires to Avoid - November 25, 2019
+True Label: 2
+Predicted Label: 2
+
+Text: Sydney's smoke-filled air from the bushfires is so bad it's setting off fire alarms. @SybillaGross explains just h… https://t.co/Ss3reLWhlW
+True Label: 2
+Predicted Label: 2
+
+Text: $JKHY day highs and clearing resistance, name not far from its record highs
+True Label: 1
+Predicted Label: 1
+
+Text: $UNG $WMB $XLE - U.S. oil firms vented or flared record amount of gas in 2018 https://t.co/JxF5CcvNyo
+True Label: 1
+Predicted Label: 1
+
+Text: The Most Momentous Rate Decision This Month Isn’t at Fed or ECB
+True Label: 2
+Predicted Label: 1
+
+Text: Gold futures climb nearly 3%, settling at the highest level since December 2012 https://t.co/um1vukp9mc
+True Label: 1
+Predicted Label: 1
+
+Text: Empty LNG tankers are idling off Qatar as China slows imports amid the virus outbreak https://t.co/Vhf6L9WRYU
+True Label: 0
+Predicted Label: 0
+
+Text: $TALKX: Market Briefing: Downshift https://t.co/CBPbBbxMjS
+True Label: 0
+Predicted Label: 2
+
+Text: Macy's says temporary issue with e-commerce business also impacted Q3 performance
+True Label: 0
+Predicted Label: 1
+
+Text: VTEX, an e-commerce platform used by Walmart, raises $140M led by SoftBank's LatAm fund https://t.co/UJ2s2wUYPD via… https://t.co/sATiJD3uQM
+True Label: 2
+Predicted Label: 2
+
+Text: Is James River Group Holdings Ltd (JRVR) Going To Burn These Hedge Funds ?
+True Label: 2
+Predicted Label: 2
+
+Text: LexinFintech EPS in-line, beats on revenue
+True Label: 1
+Predicted Label: 1
+
+Text: #5things
+-China IP concession
+-Hong Kong election
+-Loads of corporate news
+-Markets rise
+-Coming up...… https://t.co/aSJjULIOt3
+True Label: 2
+Predicted Label: 1
+
+Text: $BONDX: Overnight Treasury Market Summary https://t.co/5J3iMVcpJL
+True Label: 2
+Predicted Label: 2
+
+Text: Edited Transcript of NJR earnings conference call or presentation 19-Nov-19 3:00pm GMT
+True Label: 2
+Predicted Label: 2
+
+Text: NTSB cites Uber, driver in fatal crash
+True Label: 0
+Predicted Label: 2
+
+Text: Johnson Offers Business an Olive Branch as U.K. Election Revs Up
+True Label: 2
+Predicted Label: 2
+
+Text: $ENLC - EnLink Midstream (ENLC) Presents At RBC Capital Markets Midstream Conference - Slideshow. Continue reading:… https://t.co/2mbkE6IWgW
+True Label: 2
+Predicted Label: 2
+
+Text: Don't Sell AMA Group Limited (ASX:AMA) Before You Read This
+True Label: 2
+Predicted Label: 2
+
+Text: $STZ (+4.9% pre) UBS Upgrades Constellation Brands (STZ) to Buy, $180 PT
+
+https://t.co/y3Tfnn7kfo
+True Label: 1
+Predicted Label: 1
+
+Text: Mnuchin: 'The deficit right now as a percentage of GDP is manageable'
+True Label: 2
+Predicted Label: 2
+
+Text: 10Y Yield LOD 1.7620%
+True Label: 0
+Predicted Label: 2
+
+Text: $UNFI - United Natural Foods Inc (UNFI) CEO Steve Spinner on Q1 2020 Results - Earnings Call Transcript. Keep readi… https://t.co/9UbHS6nuQP
+True Label: 2
+Predicted Label: 2
+
+Text: Why the Equal Rights Amendment, a 1972 Ideal, Is Back
+True Label: 2
+Predicted Label: 2
+
+Text: Is Tesla Shoving It In Trump's Face By Producing Cars In China To Skirt Tariffs? https://t.co/9KXPAYNuhr
+True Label: 2
+Predicted Label: 2
+
+Text: LabCorp prices $1.05B debt offering
+True Label: 2
+Predicted Label: 2
+
+Text: $TWLO - Yes, This Is An Unpopular Opinion: Twilio Is Overvalued. https://t.co/PCCPSLJaCP #markets #finance #stocks
+True Label: 0
+Predicted Label: 1
+
+Text: New Media closes Gannett combination
+True Label: 2
+Predicted Label: 2
+
+Text: The Oil Price War: A 3-Ring Circus. https://t.co/IBrJTQmcvM #stockmarket #trading #economy
+True Label: 2
+Predicted Label: 2
+
+Text: Conservative party manifesto plays down rightwing populism https://t.co/5zVnaDLs3R
+True Label: 2
+Predicted Label: 2
+
+Text: So far, the train is coming in right on schedule; Dow up 25% off the lows. $BA consolidating its run up.
+True Label: 1
+Predicted Label: 1
+
+Text: $DAN - Dana Slogging Through Some End-Market Challenges, But The Longer-Term Outlook Is Better. Continue reading:… https://t.co/Yhw34F3a2O
+True Label: 2
+Predicted Label: 1
+
+Text: When in doubt, follow the Oracle of Omaha?  https://t.co/eG7b0eXXit
+True Label: 2
+Predicted Label: 2
+
+Text: Checkpoint Therapeutics down 14% after hours on equity offering
+True Label: 0
+Predicted Label: 1
+
+Text: LIVE: Trump speaks at the White House Summit on Human Trafficking https://t.co/hOfqfruYnn
+True Label: 2
+Predicted Label: 2
+
+Text: $KSU - Kansas City Southern (KSU) Presents At 7th Annual Industrials Conference - Slideshow. Keep reading:… https://t.co/GndL4OFGVw
+True Label: 2
+Predicted Label: 2
+
+Text: LHN : Moscow Exchange to launch natural gas futures #LHN #Stock #MarketScreener https://t.co/3F477DYamU https://t.co/KrqtIuhvoO
+True Label: 2
+Predicted Label: 2
+
+Text: Austria is planning the first steps to restart its economy as soon as next week, the first European country to do so https://t.co/wpN1WMrcW5
+True Label: 1
+Predicted Label: 2
+
+Text: Casino Operator Wynn Resorts Is Losing Up To $2.6 Million Per Day From Coronavirus Shutdown
+True Label: 0
+Predicted Label: 2
+
+Text: Tekla World Healthcare Fund declares $0.1167 dividend
+True Label: 2
+Predicted Label: 2
+
+Text: The Aliera Companies Holds Holiday Drive to Support Toys for Tots
+True Label: 2
+Predicted Label: 2
+
+Text: UPDATE 1-Keystone operator TC Energy sees EBITDA exceeding C$10 bln in 2022
+True Label: 1
+Predicted Label: 1
+
+Text: OPEC+ Extends Virus Crisis Talks as Russia Resists Oil Cuts
+True Label: 2
+Predicted Label: 2
+
+Text: Encana files paperwork for move to U.S. from Canada
+True Label: 2
+Predicted Label: 2
+
+Text: NYC pension leader targets three utilities over emissions plans
+True Label: 2
+Predicted Label: 2
+
+Text: Why You're Probably Underestimating How Much You'll Need in Retirement
+True Label: 2
+Predicted Label: 2
+
+Text: Sensex, Nifty Halt Four-Day Gaining Streak As RIL, HDFC Drag
+True Label: 0
+Predicted Label: 1
+
+Text: China braces for a wave of soured loans with a new bad-debt manager https://t.co/9iDZNKljqu
+True Label: 0
+Predicted Label: 2
+
+Text: The search for the Alzheimer's drug is costly and frustratingly unpredictable. But it's actually a calculated gambl… https://t.co/wh7v9OAq23
+True Label: 2
+Predicted Label: 2
+
+Text: Private equity firms are increasingly turning to an obscure type of loan to fund larger and larger buyouts. That'… https://t.co/DZBVZnwj0C
+True Label: 2
+Predicted Label: 2
+
+Text: Sonos Sounds Good After Earnings Beat
+True Label: 1
+Predicted Label: 1
+
+Text: Romania's health-care system is one of the worst in Europe, so much so that a team of people took matters into thei... https://t.co/dkQoUmUia4
+True Label: 2
+Predicted Label: 2
+
+Text: Highlight: "We're gonna see companies start to report results and I think it's gonna look ugly," @FBBCap's Mike Bai… https://t.co/gdtm8YBxPc
+True Label: 0
+Predicted Label: 2
+
+Text: Was Five Star Senior Living Inc.'s (NASDAQ:FVE) Earnings Decline Part Of A Broader Industry Downturn?
+True Label: 0
+Predicted Label: 2
+
+Text: Tyson Foods -4% after chicken, beef sales disappoint
+True Label: 0
+Predicted Label: 1
+
+Text: Volvo Cars posts rise in fourth-quarter profit, helped by cost cuts and sales growth
+True Label: 1
+Predicted Label: 1
+
+Text: What was the top cryptocurrency of 2019?
+True Label: 2
+Predicted Label: 2
+
+Text: Stocks open lower on trade deal skepticism
+True Label: 0
+Predicted Label: 1
+
+Text: South Africa's rand firmer as risk takers return, stocks up 3.29% #economy #MarketScreener https://t.co/c8xg62L0XF https://t.co/e1g8OtVhBZ
+True Label: 1
+Predicted Label: 1
+
+Text: $IOFB - Iowa First Bancshares reports Q4 results https://t.co/jT2mbQvS4e
+True Label: 2
+Predicted Label: 2
+
+Text: The Best Apple Watch Black Friday Deals (2019): List of Apple Watch Series 3, 4 & 5 GPS & Cellular Savings Shared by Save Bubble
+True Label: 2
+Predicted Label: 2
+
+Text: $BOXL nice start !!!! $PDSB still accumulating.
+True Label: 1
+Predicted Label: 1
+
+Text: MURKOWSKI WILL VOTE ``NO'' ON WITNESSES, WASH. POST SAYS
+True Label: 2
+Predicted Label: 2
+
+Text: $TBPH - Theravance readies $150M stock offering; shares down 5% after hours https://t.co/YgYqnXrOnQ
+True Label: 0
+Predicted Label: 1
+
+Text: Read like Bill Gates: His 5 picks of 2019 https://t.co/Gyp8FvcuDD
+True Label: 2
+Predicted Label: 2
+
+Text: Oil pared losses amid signs that Saudi Arabia and Russia are making progress toward an agreement to curb crude outp… https://t.co/d8GzSKGYQE
+True Label: 1
+Predicted Label: 0
+
+Text: Here’s how to get married in style https://t.co/BLvOGQSyrR
+True Label: 2
+Predicted Label: 2
+
+Text: Foxconn won't amend Wisconsin contract - The Verge
+True Label: 2
+Predicted Label: 2
+
+Text: Pete Buttigieg sees surge in support from business execs after his strong showing in Iowa https://t.co/ZFfMXbQuBV
+True Label: 2
+Predicted Label: 1
+
+Text: Should You Be Tempted To Sell Galp Energia, SGPS, S.A. (ELI:GALP) Because Of Its P/E Ratio?
+True Label: 2
+Predicted Label: 2
+
+Text: $ABEO as expected, keeps going higher. Cantor doubled its price target this morning to $4
+True Label: 1
+Predicted Label: 1
+
+Text: "With self-driving cars, automakers can reimagine the interior cabin to provide passengers a holistically new and i… https://t.co/5KRYlJ8mTQ
+True Label: 2
+Predicted Label: 2
+
+Text: $IEA - Infrastructure and Energy Alternatives secures two wind construction project awards totaling $115M https://t.co/hHMY90wYaC
+True Label: 1
+Predicted Label: 2
+
+Text: Ruth's Hospitality Group, Inc. to Announce Fourth Quarter and Full Year 2019 Financial Results on February 21st, 2020
+True Label: 2
+Predicted Label: 2
+
+Text: $SPX There are still ZERO confirmed cases of novel #coronavirus in NYC.
+True Label: 2
+Predicted Label: 1
+
+Text: $NVDA $UBER - Beware The Ides Of December, Current Events Should Boost Markets Now; Sell Uber And Tesla. Get more u… https://t.co/BcYnGhPTG3
+True Label: 2
+Predicted Label: 1
+
+Text: China to raise penalties on IP theft in trade war compromise - SCMP
+
+https://t.co/hVY3zAtMg0
+True Label: 2
+Predicted Label: 2
+
+Text: $CANF (+20.3% pre) Can-Fite BioPharma (CANF) Announces Positive Top Line Results from its Phase II NASH Study with… https://t.co/HLKZq00QPy
+True Label: 1
+Predicted Label: 1
+
+Text: $SINT volume Alert !! Big buy blocks. Momentum is coming back to this name. First pivot 50c https://t.co/MU2uyO5JFT
+True Label: 1
+Predicted Label: 1
+
+Text: Dow- Chemically Speaking
+True Label: 2
+Predicted Label: 2
+
+Text: Transurban : 1st Half Profit Up 46%, Increased Traffic Drives Toll Revenue Rise #Transurban #Stock #MarketScreener… https://t.co/246Nl7a9j3
+True Label: 1
+Predicted Label: 1
+
+Text: $AN - AutoNation Q4 2019 Earnings Preview https://t.co/6dXenvxdEY
+True Label: 2
+Predicted Label: 2
+
+Text: Nexus REIT declares CAD 0.0133 dividend
+True Label: 2
+Predicted Label: 2
+
+Text: $BGNE: BeiGene reports clinical data on Tislelizumab https://t.co/f1bfcfhxoh
+True Label: 2
+Predicted Label: 2
+
+Text: Nike's Vaporfly running sneakers to be allowed in 2020 Olympics https://t.co/zokAlame0K
+True Label: 2
+Predicted Label: 2
+
+Text: Microfinance Loan Portfolio Jumps 48% In September Quarter
+True Label: 1
+Predicted Label: 1
+
+Text: CNOOC appoints CEO
+True Label: 2
+Predicted Label: 2
+
+Text: Amazon tunes to new cloud wavelength https://t.co/ximH0zukU9
+True Label: 2
+Predicted Label: 2
+
+Text: $PANW - Palo Alto Networks Q1 2020 Earnings Preview https://t.co/DfQXpl34fA
+True Label: 2
+Predicted Label: 2
+
+Text: $BR - Broadridge Financial Solutions, Inc. (BR) CEO Tim Gokey on Q2 2020 Results - Earnings Call Transcript.... https://t.co/yYrbfCRfBh
+True Label: 2
+Predicted Label: 2
+
+Text: Southwest Airlines Pushes Back Schedule For 737 MAX Until April
+True Label: 2
+Predicted Label: 2
+
+Text: $APLS - Apellis Pharmaceuticals (APLS) Investor Presentation - Slideshow. Read more and get updates on any stock!… https://t.co/wJLXS3OeNb
+True Label: 2
+Predicted Label: 2
+
+Text: Nio Shares Continue Higher Despite Predictions Of Record Plunge In Chinese Auto Sales
+True Label: 1
+Predicted Label: 1
+
+Text: UPDATE 2-European stocks end flat as defensive gains offset auto slide
+True Label: 2
+Predicted Label: 1
+
+Text: Mexico’s former top police official has been arrested in the U.S. for allegedly taking millions in bribes to help t… https://t.co/gumELPl8zp
+True Label: 2
+Predicted Label: 2
+
+Text: Model N upgraded to overweight from neutral at JPMorgan, price target raised to $36 from $30
+True Label: 1
+Predicted Label: 1
+
+Text: Medtronic's stock surges after earnings rise above expectations, and outlook raised
+True Label: 1
+Predicted Label: 1
+
+Text: On the hour https://t.co/G9BZLeFZTD
+True Label: 2
+Predicted Label: 2
+
+Text: PSA trade unions give the nod to merger with Fiat
+True Label: 2
+Predicted Label: 2
+
+Text: OneWater Marine raised $55.4 mln in the IPO
+True Label: 2
+Predicted Label: 2
+
+Text: The African grey parrot is an intelligent animal capable of mimicking human speech, which can live in captivity up… https://t.co/1UX49C10l7
+True Label: 2
+Predicted Label: 2
+
+Text: Respimat® re-usable inhaler wins 2020 Pharmapack Eco-Design Award
+True Label: 2
+Predicted Label: 2
+
+Text: Here are the best analyst calls of the week on Wall Street including Disney and a satellite play https://t.co/u9r1QPQli5
+True Label: 2
+Predicted Label: 2
+
+Text: Is Pelosi Rushing Impeachment Because Dems Know They Have Failed?  https://t.co/49HRcpAw7T
+True Label: 2
+Predicted Label: 2
+
+Text: France’s Le Maire Says Retirement Age Could Be Negotiable
+True Label: 2
+Predicted Label: 2
+
+Text: Chubb to buy stake in China's Huatai Insurance for $1.53 billion #economy #MarketScreener https://t.co/sUAx6evkmj https://t.co/DVUL8EMQ0t
+True Label: 2
+Predicted Label: 2
+
+Text: Iran to Seek Advanced Arms as UN Embargo Expires, Pentagon Says
+True Label: 2
+Predicted Label: 2
+
+Text: $MIME - Mimecast EPS beats by $0.02, beats on revenue https://t.co/W0BN0AakK6
+True Label: 1
+Predicted Label: 1
+
+Text: This Dividend Hero’s Too Cheap To Miss Right Now
+True Label: 2
+Predicted Label: 2
+
+Text: $CMI - Cummins (CMI) Investor Presentation - Slideshow. Continue reading: https://t.co/4ropk5quxp #investing #stocks #business
+True Label: 2
+Predicted Label: 2
+
+Text: Our microeconomists take a look at the substantial deterioration in consumer expectations in March as a result of t… https://t.co/CPp5g9xcpr
+True Label: 0
+Predicted Label: 2
+
+Text: $BAH - Booz Allen Hamilton Holding Corporation (BAH) CEO Horacio Rozanski on Q3 2020 Results - Earnings Call Transc... https://t.co/dNOLR4pBSn
+True Label: 2
+Predicted Label: 2
+
+Text: Weekly portfolios report : Stress quickly erased #Weeklyportfoliosreport #portfolio #MarketScreener… https://t.co/aght48Gwte
+True Label: 1
+Predicted Label: 1
+
+Text: Russia Seeks to Lift Ban on ‘Blood Diamonds’ From African Ally
+True Label: 2
+Predicted Label: 2
+
+Text: $RGCO - RGC Resources, Inc. (RGCO) CEO John D'Orazio on Q4 2019 Results - Earnings Call Transcript. Read more and g… https://t.co/UR8KXNoy1h
+True Label: 2
+Predicted Label: 2
+
+Text: Why Shares of TransDigm Group Soared in January
+True Label: 1
+Predicted Label: 1
+
+Text: If You Had Bought Century Communities (NYSE:CCS) Stock Five Years Ago, You Could Pocket A 61% Gain Today
+True Label: 1
+Predicted Label: 2
+
+Text: Flotek Industries Inc (FTK): Hedge Fund Sentiment Unchanged
+True Label: 2
+Predicted Label: 2
+
+Text: Trump Tax Fight Faces New Urgency After Impeachment Acquittal
+True Label: 2
+Predicted Label: 2
+
+Text: WeWork Faces Another Investigation Over Neumann
+True Label: 0
+Predicted Label: 2
+
+Text: $RMLRF $TRYUF - Ramelius Resources to scoop up Spectrum Metals https://t.co/5gqMvy0sSS
+True Label: 2
+Predicted Label: 2
+
+Text: India Plans Incentives to Bring In Foreign Manufacturers From Tesla to Glaxo
+True Label: 2
+Predicted Label: 2
+
+Text: Nexstar Media : Andy Alford #NexstarMedia #Stock #MarketScreener https://t.co/7676Cby6JX https://t.co/mCQbFmgJrt
+True Label: 2
+Predicted Label: 2
+
+Text: SHAREHOLDER UPDATE: Airtrona International Executes LOI With Canadian Based Medical Device Company.
+True Label: 2
+Predicted Label: 2
+
+Text: Myanmar Asks Tour Firms to Suspend Services for Chinese Visitors
+True Label: 2
+Predicted Label: 2
+
+Text: Dow scores triple-digit gain on rosier investor view of U.S.-China trade talks https://t.co/Dh7QlYLIjn
+True Label: 1
+Predicted Label: 1
+
+Text: Brookfield Asset Management closes $20B infrastructure fund
+True Label: 2
+Predicted Label: 2
+
+Text: Can Cronos Stock Break Out of Its Downtrend?
+True Label: 2
+Predicted Label: 2
+
+Text: When Can You Afford to Retire? Ask Yourself These 4 Questions
+True Label: 2
+Predicted Label: 2
+
+Text: Time to drive pensions sharks out of the water for good https://t.co/0B8FXfEjvI
+True Label: 2
+Predicted Label: 2
+
+Text: Australians Love Rooftop Panels. That’s a Problem for Big Solar
+True Label: 2
+Predicted Label: 2
+
+Text: Can The North West Company Inc. (TSE:NWC) Maintain Its Strong Returns?
+True Label: 2
+Predicted Label: 2
+
+Text: There goes $ACST
+True Label: 2
+Predicted Label: 2
+
+Text: New York Times sees Q1 ad revenue down about 10%
+True Label: 0
+Predicted Label: 1
+
+Text: Catalyst Metals : Joint Venture with St Barbara on Drummartin project #CatalystMetals #Stock #MarketScreener… https://t.co/hs4iuvtDbN
+True Label: 2
+Predicted Label: 2
+
+Text: David Marcus heads the Facebook subsidiary Calibra, which is creating the digital wallet that lets you store and se… https://t.co/EBRdFFrkwo
+True Label: 2
+Predicted Label: 2
+
+Text: Did Thermo Fisher Scientific Inc.'s (NYSE:TMO) Recent Earnings Growth Beat The Trend?
+True Label: 2
+Predicted Label: 2
+
+Text: Flurry of retailer earnings on tap
+True Label: 2
+Predicted Label: 1
+
+Text: Is Houghton Mifflin Harcourt Co (HMHC) Going to Burn These Hedge Funds?
+True Label: 2
+Predicted Label: 2
+
+Text: The S&P 500's chart is signaling a near-term pullback, technical analyst warns (via @TradingNation) https://t.co/VxNKIV5SRR
+True Label: 0
+Predicted Label: 0
+
+Text: In undertaking what will undoubtedly be its largest rescue effort ever, the Federal Reserve announced programs that… https://t.co/iMHp4NZFeV
+True Label: 2
+Predicted Label: 2
+
+Text: Exxon is cutting billions of dollars in investments to keep its financial footing during the worst oil-price rout i… https://t.co/MI5vCEkhlm
+True Label: 0
+Predicted Label: 2
+
+Text: California must sound the alarm over rising seas, an analyst says https://t.co/vExxAxSA9t
+True Label: 2
+Predicted Label: 2
+
+Text: $FISI - Financial Institutions, Inc. (FISI) CEO Marty Birmingham on Q4 2019 Results - Earnings Call Transcript.... https://t.co/x0EUXRLkqc
+True Label: 2
+Predicted Label: 2
+
+Text: HKScan Oyj:OMIEN OSAKKEIDEN HANKINTA 25.11.2019 #Stock #MarketScreener https://t.co/pJy7Wb5xzZ https://t.co/iZcxHLUncR
+True Label: 2
+Predicted Label: 2
+
+Text: The world's largest oil producers are groping their way toward a deal on who's willing to cut production and by how… https://t.co/zhXJENTilz
+True Label: 2
+Predicted Label: 2
+
+Text: MILLION DOLLAR MARVEL: The 1939 comic book that laid the groundwork for the Avengers, Spider-Man, and the X-Men has… https://t.co/DfpVefYXH0
+True Label: 2
+Predicted Label: 2
+
+Text: Consumer credit $18.9BN, Exp. $16BN, Last $9.6BN
+True Label: 1
+Predicted Label: 2
+
+Text: UPDATE 2-Crunch talks lead to Emirates order for 30 Boeing Dreamliners
+True Label: 2
+Predicted Label: 2
+
+Text: Venture capital doesn't work for everyone. There's another way https://t.co/kp76Buetao
+True Label: 2
+Predicted Label: 2
+
+Text: Nomura highlights casino sleeper amid coronavirus anxiety
+True Label: 2
+Predicted Label: 2
+
+Text: German Economic Weakness Exposed Again as Industry Slumps
+True Label: 0
+Predicted Label: 1
+
